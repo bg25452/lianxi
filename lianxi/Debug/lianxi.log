@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lianxi.cpp
+e:\hackrank\lianxi\lianxi\lianxi.cpp(14): warning C4100: “b”: 未引用的形参
+  lianxi.vcxproj -> E:\hackrank\lianxi\Debug\lianxi.exe
